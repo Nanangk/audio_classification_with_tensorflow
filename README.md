@@ -28,4 +28,8 @@ The dataset was collected for the purposes of music/speech discrimination. The d
 - [Matplotlib](https://matplotlib.org/)
 - [Taqadum](https://tqdm.github.io/)
 
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/nanangkasim/)
+- Email : nanangk.ti16@gmail.com
+
 
